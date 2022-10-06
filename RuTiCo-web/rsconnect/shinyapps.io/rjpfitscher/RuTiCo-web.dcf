@@ -1,0 +1,13 @@
+name: RuTiCo-web
+title: RuTiCo-web
+username:
+account: rjpfitscher
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7234129
+bundleId: 6376909
+url: https://rjpfitscher.shinyapps.io/RuTiCo-web/
+when: 1665082916.08634
+lastSyncTime: 1665082916.08636
+asMultiple: FALSE
+asStatic: FALSE

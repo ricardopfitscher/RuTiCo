@@ -14,7 +14,7 @@ library(dplyr)
 # Define UI for application that draws a histogram
 shiny::runApp(list(
   ui=pageWithSidebar(
-    headerPanel('Simple matrixInput')
+    headerPanel('RuTiCo - Runtime Complexity Prediction')
     ,
     sidebarPanel(
       fileInput('file1', 'Choose CSV File',
@@ -44,7 +44,6 @@ shiny::runApp(list(
       
       if (is.null(inFile))
         return(NULL)
-      #read.csv("database.csv", sep = ",", header = T, dec = ",", stringsAsFactors=TRUE)
       tbl <- read.csv(inFile$datapath, header=input$header, sep=input$sep, dec = ",",stringsAsFactors=TRUE)
       database <- as.data.frame(tbl)
       tbl$p.efficiency <- predict(model_efficiency_merged_full, database)
