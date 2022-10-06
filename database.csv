@@ -1,0 +1,426 @@
+num_if,num_else,num_switch,num_loof,num_break,num_Priority,num_binSearch,num_minMax,num_sort,num_hash_map,num_hash_set,num_recursive,num_nasted_loop,num_vari,num_method,num_state,complexity,complexity_class,efficiency,filename
+0,0,0,2,0,0,0,1,0,0,0,0,2,4,2,4,n*k,quadratic,inefficient,BinomialCoefficientDP9GeeksforGeeks-3.java
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,1,constant,efficient,DetectiftwointegershaveoppositesignsGeeksforGeeks-1.java
+1,0,0,2,0,0,0,0,0,0,0,0,0,9,2,7,log n (log log n,logarithmic,efficient,RandomizedAlgorithmsSet312ApproximateMedianGeeksforGeeks-1.java
+1,0,0,1,0,0,0,0,0,0,0,1,0,3,3,5,log n,logarithmic,efficient,Counttotalsetbitsinallnumbersfrom1tonGeeksforGeeks-5.java
+
+
+2,0,0,2,0,0,0,0,0,0,0,2,0,8,5,8,n^2,quadratic,inefficient,QuickSortGeeksforGeeks-1.java
+3,0,0,0,0,0,0,1,0,0,0,3,0,2,2,7,mn,polynomial,inefficient,ShortestCommonSupersequenceGeeksforGeeks-2.java
+0,0,0,0,0,0,0,2,0,0,0,0,0,1,3,2,"min(x, y, z",linear,efficient,SmallestofthreeintegerswithoutcomparisonoperatorsGeeksforGeeks-2.java
+1,0,0,2,0,0,0,1,0,0,0,0,2,7,2,6,nw,quadratic,inefficient,01KnapsackProblemDP10GeeksforGeeks-5.java
+7,0,0,4,0,0,0,0,0,0,0,1,0,8,4,19,v+e,linear,efficient,DetectcycleinanundirectedgraphGeeksforGeeks-1.java
+6,0,0,9,0,0,0,0,0,0,0,1,2,14,6,26,v,linear,efficient,EulerCircuitinaDirectedGraphGeeksforGeeks-1.java
+6,0,0,2,0,0,0,0,0,0,0,1,0,11,9,18,k + (n-k,linear,efficient,KthSmallestLargestElementinUnsortedArraySet1GeeksforGeeks-4.java
+3,0,0,1,0,0,0,0,2,0,0,0,0,5,2,8,n * log n,linearithmic,efficient,MinimumNumberofPlatformsRequiredforaRailwayBusStationGeeksforGeeks-3.java
+1,0,0,1,0,0,0,0,0,0,0,0,0,3,2,5,n,linear,efficient,ProgramforFibonaccinumbersGeeksforGeeks-3.java
+3,0,0,3,1,0,0,0,0,0,0,0,0,9,2,11,n,linear,efficient,SnakeandLadderProblemGeeksforGeeks-1.java
+
+4,1,0,2,1,0,0,0,0,0,0,1,0,7,3,15,n,linear,efficient,CountPossibleDecodingsofagivenDigitSequenceGeeksforGeeks-3.java
+3,0,0,0,0,0,0,1,0,0,0,6,0,4,4,7,n,linear,efficient,LargestIndependentSetProblemDP26GeeksforGeeks-1.java
+1,0,0,2,0,0,0,0,0,0,0,1,0,6,3,6,n^2,quadratic,inefficient,PrintallpossiblecombinationsofrelementsinagivenarrayofsizenGeeksforGeeks-1.java
+1,0,0,6,0,0,0,0,1,0,0,0,2,11,2,14,n,linear,efficient,BucketSortGeeksforGeeks-1.java
+
+4,1,0,3,0,0,0,0,0,0,0,2,0,6,5,22,n log n,linearithmic,efficient,MergeSortforDoublyLinkedListGeeksforGeeks-1.java
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,log n,logarithmic,efficient,PositionofrightmostsetbitGeeksforGeeks-1.java
+2,0,0,4,0,0,0,0,0,0,0,0,2,7,3,12,m*no_of_chars,quadratic,inefficient,PatternSearchingSet6EfficientConstructionofFiniteAutomataGeeksforGeeks-1.java
+2,0,0,1,0,0,0,0,0,0,0,2,0,5,3,6,n^2,quadratic,inefficient,PrintallpossiblecombinationsofrelementsinagivenarrayofsizenGeeksforGeeks-2.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,3,log n,logarithmic,efficient,Add1toagivennumberGeeksforGeeks-1.java
+1,0,0,0,0,0,0,0,0,0,0,1,0,2,2,3,log n,logarithmic,efficient,CountsetbitsinanintegerGeeksforGeeks-7.java
+2,1,0,6,0,0,0,0,1,0,0,2,0,13,4,14,n log n,linearithmic,efficient,MergeSortGeeksforGeeks-1.java
+0,0,0,2,0,0,0,0,0,0,0,0,2,4,2,4,n^2,quadratic,inefficient,PascalsTriangleGeeksforGeeks-3.java
+1,0,0,1,0,0,0,0,0,0,0,0,0,8,4,4,n,linear,efficient,ProgramforFibonaccinumbersGeeksforGeeks-4.java
+4,0,0,0,0,0,0,0,0,0,0,1,0,2,2,7,log n,logarithmic,efficient,Programtofindwhetheragivennumberispowerof2GeeksforGeeks-3.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,4,3,4,n,linear,efficient,AverageofastreamofnumbersGeeksforGeeks-1.java
+10,0,0,0,0,0,0,4,0,0,0,0,0,9,4,20,1,constant,efficient,HowtocheckiftwogivenlinesegmentsintersectGeeksforGeeks-1.java
+4,0,0,1,0,0,0,0,0,0,0,2,0,9,5,14,n,linear,efficient,KthSmallestLargestElementinUnsortedArraySet2ExpectedLinearTimeGeeksforGeeks-1.java
+2,0,0,1,0,0,0,0,0,0,0,0,0,3,2,7,1,constant,efficient,PositionofrightmostsetbitGeeksforGeeks-5.java
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,constant,efficient,Add1toagivennumberGeeksforGeeks-2.java
+2,0,0,2,0,0,0,0,0,0,0,1,0,4,5,12,k*n,quadratic,inefficient,Counttotalsetbitsinallnumbersfrom1tonGeeksforGeeks-3.java
+
+4,0,0,5,0,0,0,2,0,0,0,1,0,15,4,16,v+e,linear,efficient,TarjansAlgorithmtofindStronglyConnectedComponentsGeeksforGeeks-1.java
+2,0,0,3,1,0,0,0,0,0,0,0,2,5,3,9,n^2,quadratic,inefficient,BubbleSortGeeksforGeeks-2.java
+5,0,0,7,0,0,0,0,0,0,0,0,6,11,2,17,n^2,quadratic,inefficient,CycleSortGeeksforGeeks-1.java
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,constant,efficient,Efficientwaytomultiplywith7GeeksforGeeks-1.java
+1,0,0,2,0,0,0,0,0,0,0,1,0,7,4,7,n,linear,efficient,LexicographicrankofastringGeeksforGeeks-1.java
+5,1,0,3,0,0,0,0,0,0,0,1,0,8,4,13,m,linear,efficient,PatternSearchingusingaTrieofallSuffixesGeeksforGeeks-1.java
+3,0,0,5,1,0,0,0,0,0,0,0,2,8,3,13,logv,logarithmic,efficient,VertexCoverProblemSet1IntroductionandApproximateAlgorithmGeeksforGeeks-1.java
+1,1,0,3,0,1,0,0,2,0,0,0,2,8,2,12,n^2,quadratic,inefficient,JobSequencingProblemGeeksforGeeks-2.java
+3,1,0,0,0,0,0,1,0,0,0,3,0,3,2,7,mn,polynomial,inefficient,ShortestCommonSupersequenceGeeksforGeeks-4.java
+1,0,0,5,0,0,0,0,1,0,0,0,0,12,2,13,n,linear,efficient,SuffixArraySet1IntroductionGeeksforGeeks-1.java
+1,0,0,6,0,0,0,8,1,0,0,0,2,15,3,14,n,linear,efficient,BoxStackingProblemDP22GeeksforGeeks-1.java
+2,1,0,2,0,0,0,0,0,0,0,0,0,6,2,9,n log n,linearithmic,efficient,Counttotalsetbitsinallnumbersfrom1tonGeeksforGeeks-2.java
+8,4,0,1,0,0,0,2,0,0,0,4,0,6,2,24,mn,polynomial,inefficient,EditDistanceDP5GeeksforGeeks-4.java
+1,0,0,2,0,0,0,0,0,0,0,2,0,4,2,8,n^2,quadratic,inefficient,ProgramfornthCatalanNumberGeeksforGeeks-1.java
+1,0,0,2,0,0,0,0,0,0,0,0,0,3,4,7,nlogn,linearithmic,efficient,UglyNumbersGeeksforGeeks-1.java
+0,0,0,2,0,0,0,0,0,0,0,0,2,3,2,3,n,linear,efficient,CountDistinctNonNegativeIntegerPairsxythatSatisfytheInequalityxxyynGeeksforGeeks-1.java
+1,0,0,5,0,1,0,0,0,0,0,0,0,11,4,14,e log v,linearithmic,efficient,DijkstrasAlgorithmforAdjacencyListRepresentationGreedyAlgo8GeeksforGeeks-1.java
+1,0,0,1,0,0,0,0,0,0,0,0,0,5,2,3,n log n,linearithmic,efficient,FindthetwononrepeatingelementsinanarrayofrepeatingelementsUniqueNumbers2GeeksforGeeks-3.java
+1,0,0,2,0,0,0,0,0,0,1,0,0,5,2,4,n log n,linearithmic,efficient,FindthetwononrepeatingelementsinanarrayofrepeatingelementsUniqueNumbers2GeeksforGeeks-4.java
+3,0,0,0,0,0,0,1,0,0,0,3,0,2,3,11,n^2,quadratic,inefficient,LongestPalindromicSubsequenceDP12GeeksforGeeks-1.java
+2,0,0,4,0,0,0,0,0,0,0,0,2,3,2,7,n^2,quadratic,inefficient,MaximumLengthChainofPairsDP20GeeksforGeeks-1.java
+1,0,0,1,0,0,0,0,0,0,0,0,0,4,2,4,r,linear,efficient,SpaceandtimeefficientBinomialCoefficientGeeksforGeeks-1.java
+1,0,0,2,0,0,0,0,0,0,0,0,2,3,2,7,a * b,quadratic,inefficient,WriteyouownPowerwithoutusingmultiplicationanddivisionoperatorsGeeksforGeeks-1.java
+4,1,0,1,2,0,0,0,0,0,0,0,0,8,2,13,log n,logarithmic,efficient,MedianoftwosortedarraysofsamesizeGeeksforGeeks-1.java
+0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,1,constant,efficient,RotatebitsofanumberGeeksforGeeks-1.java
+1,0,0,3,0,1,0,0,0,0,0,0,0,10,2,8,n,linear,efficient,ActivitySelectionProblemGreedyAlgo1GeeksforGeeks-3.java
+
+5,0,0,5,1,0,0,0,0,0,0,0,2,8,4,17,m*no_of_chars,quadratic,inefficient,FiniteAutomataalgorithmforPatternSearchingGeeksforGeeks-1.java
+2,0,0,2,0,0,0,1,0,0,0,0,0,6,2,8,n,linear,efficient,MinimumnumberofsquareswhosesumequalstogivennumbernGeeksforGeeks-4.java
+2,0,0,2,0,0,0,1,1,0,0,0,0,9,5,11,n*2n,exponential,inefficient,WeightedJobSchedulingGeeksforGeeks-2.java
+3,0,0,2,0,0,0,1,0,0,0,3,2,7,4,11,nw,quadratic,inefficient,01KnapsackProblemDP10GeeksforGeeks-4.java
+3,0,0,0,0,0,0,0,0,0,0,2,0,2,2,7,2^n,exponential,inefficient,CoinChangeDP7GeeksforGeeks-1.java
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,constant,efficient,TurnofftherightmostsetbitGeeksforGeeks-1.java
+2,0,0,2,0,0,0,0,0,0,0,0,2,6,2,7,1,constant,efficient,FindtheelementthatappearsonceGeeksforGeeks-2.java
+2,0,0,0,0,0,0,1,0,0,0,3,0,7,3,6,2^n,exponential,inefficient,LongestCommonSubsequenceDP4GeeksforGeeks-1.java
+5,1,0,2,0,0,0,0,0,0,0,2,0,9,6,19,n log n,linearithmic,efficient,MergeSortforLinkedListsGeeksforGeeks-1.java
+3,0,0,2,0,0,0,0,0,0,0,2,0,9,4,11,n^3,polynomial,inefficient,OptimalBinarySearchTreeDP24GeeksforGeeks-1.java
+4,0,0,1,0,0,0,0,0,0,0,1,0,5,2,9,v^3,polynomial,inefficient,CountallpossiblewalksfromasourcetoadestinationwithexactlykedgesGeeksforGeeks-1.java
+2,0,0,1,0,0,0,0,0,0,0,0,0,3,2,7,log n,logarithmic,efficient,Findwhetheragivennumberisapowerof4ornotGeeksforGeeks-2.java
+2,0,0,2,0,0,0,0,0,0,1,0,0,5,2,6,m log m + n log m,linearithmic,efficient,HowtocheckiftwogivensetsaredisjointGeeksforGeeks-3.java
+1,0,0,1,0,0,0,0,0,0,0,0,0,2,2,5,log n,logarithmic,efficient,Smallestpowerof2greaterthanorequaltonGeeksforGeeks-1.java
+3,0,0,1,0,0,0,2,0,0,0,0,0,9,2,9,n,linear,efficient,UglyNumbersGeeksforGeeks-2.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,4,3,4,n,linear,efficient,AverageofastreamofnumbersGeeksforGeeks-2.java
+3,0,0,7,1,0,0,1,0,0,0,1,2,12,6,22,nl,quadratic,inefficient,GivenasorteddictionaryofanalienlanguagefindorderofcharactersGeeksforGeeks-1.java
+4,0,0,3,0,0,0,0,0,0,0,0,0,7,2,13,v+e,linear,efficient,CheckwhetheragivengraphisBipartiteornotGeeksforGeeks-1.java
+2,0,0,3,0,0,0,0,0,0,0,1,2,9,4,8,nm,quadratic,inefficient,FindthenumberofislandsSet1UsingDFSGeeksforGeeks-1.java
+4,0,0,4,1,0,0,0,0,0,0,1,0,13,8,20,v+e,linear,efficient,FleurysAlgorithmforprintingEulerianPathorCircuitGeeksforGeeks-1.java
+0,0,0,4,0,1,0,0,0,0,0,0,0,9,3,7,k + O((m * log(k,linear,efficient,SortanearlysortedorKsortedarrayGeeksforGeeks-2.java
+2,0,0,0,0,0,0,1,0,0,0,3,0,4,3,6,2^n,exponential,inefficient,01KnapsackProblemDP10GeeksforGeeks-1.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,3,log n,logarithmic,efficient,AddtwonumberswithoutusingarithmeticoperatorsGeeksforGeeks-2.java
+4,0,0,3,0,0,0,0,0,0,0,0,0,9,3,13,n^2,quadratic,inefficient,ConvexHullSet1JarvissAlgorithmorWrappingGeeksforGeeks-1.java
+4,0,0,0,0,0,0,0,0,0,0,3,0,3,2,8,2^n,exponential,inefficient,DynamicProgrammingSubsetSumProblem-1.java
+6,1,0,0,0,0,0,0,0,0,0,0,0,8,3,11,1,constant,efficient,FinddayoftheweekforagivendateGeeksforGeeks-1.java
+4,0,0,1,0,0,0,0,0,0,0,2,0,7,3,13,n,linear,efficient,KthSmallestLargestElementinUnsortedArraySet1GeeksforGeeks-5.java
+2,0,0,0,0,0,0,0,0,0,0,1,0,2,3,5,1,constant,efficient,MakeafaircoinfromabiasedcoinGeeksforGeeks-1.java
+2,0,0,2,0,0,0,1,0,0,0,2,0,3,3,10,n^3,polynomial,inefficient,PalindromePartitioningDP17GeeksforGeeks-1.java
+10,2,0,9,2,0,0,0,0,0,0,4,2,17,4,49,9^(n*n,exponential,inefficient,SudokuBacktracking7GeeksforGeeks-2.java
+1,0,0,3,0,0,0,0,0,0,0,0,2,5,2,5,n^2,quadratic,inefficient,FindtheminimumcosttoreachdestinationusingatrainGeeksforGeeks-2.java
+
+1,0,0,0,0,0,0,0,0,0,0,2,0,3,3,3,n*(2^n,exponential,inefficient,PrintallpossiblestringsthatcanbemadebyplacingspacesGeeksforGeeks-1.java
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,1,constant,efficient,SmallestofthreeintegerswithoutcomparisonoperatorsGeeksforGeeks-3.java
+0,0,0,2,0,0,0,1,0,0,0,0,2,6,2,4,n^2,quadratic,inefficient,CuttingaRodDP13GeeksforGeeks-1.java
+6,0,0,3,1,0,0,0,1,0,0,3,0,10,5,21,n,linear,efficient,KthSmallestLargestElementinUnsortedArraySet3WorstCaseLinearTimeGeeksforGeeks-1.java
+1,0,0,1,0,0,0,1,0,0,0,2,0,4,3,7,n^3,polynomial,inefficient,MinimumCostPolygonTriangulationGeeksforGeeks-1.java
+2,0,0,2,0,0,0,0,0,1,0,0,0,5,2,9,n log n,linearithmic,efficient,FindtheelementthatappearsonceGeeksforGeeks-4.java
+5,0,0,5,0,0,0,0,0,0,0,1,2,13,5,22,1,constant,efficient,NQueenProblemusingBranchAndBoundGeeksforGeeks-1.java
+2,1,0,1,0,0,0,0,0,0,0,0,0,5,2,5,1,constant,efficient,SelectarandomnumberfromstreamwithO1spaceGeeksforGeeks-1.java
+2,0,0,3,0,0,0,2,0,0,0,0,0,9,2,8,n^2,quadratic,inefficient,MaximumprofitbybuyingandsellingashareatmosttwiceGeeksforGeeks-1.java
+1,0,0,3,0,0,0,1,0,0,0,0,2,5,2,9,n,linear,efficient,MinimumnumberofsquareswhosesumequalstogivennumbernGeeksforGeeks-5.java
+12,0,0,4,0,0,0,2,0,0,0,1,0,15,4,26,v+e,linear,efficient,BiconnectedgraphGeeksforGeeks-1.java
+0,0,0,6,0,0,0,0,1,0,0,0,0,11,2,7,n+k,linear,efficient,CountingSortGeeksforGeeks-1.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,2,2,3,log n,logarithmic,efficient,CountsetbitsinanintegerGeeksforGeeks-3.java
+
+
+1,0,0,3,0,0,0,0,1,0,0,0,2,9,3,5,n^2,quadratic,inefficient,SelectionSortGeeksforGeeks-1.java
+1,0,0,2,0,0,0,0,0,0,0,1,0,5,2,8,n*(2^n,exponential,inefficient,PrintallpossiblestringsthatcanbemadebyplacingspacesGeeksforGeeks-2.java
+2,0,0,2,0,0,0,1,0,0,0,0,2,7,3,8,mn,polynomial,inefficient,ShortestCommonSupersequenceGeeksforGeeks-1.java
+2,0,0,2,0,0,0,1,0,0,0,0,2,6,3,8,nw,quadratic,inefficient,01KnapsackProblemDP10GeeksforGeeks-2.java
+6,2,0,2,0,0,0,0,0,0,0,0,0,9,3,17,n,linear,efficient,KMPAlgorithmforPatternSearchingGeeksforGeeks-1.java
+1,0,0,3,0,0,0,0,0,0,0,0,2,5,3,7,n^3,polynomial,inefficient,PascalsTriangleGeeksforGeeks-1.java
+
+2,0,0,2,0,0,0,0,0,0,0,0,2,5,3,6,1,constant,efficient,Howtocheckifaninstanceof8puzzleissolvableGeeksforGeeks-1.java
+2,0,0,5,0,0,0,0,0,0,0,0,2,8,2,8,n + range,linear,efficient,PigeonholeSortGeeksforGeeks-1.java
+3,1,0,9,0,0,0,0,0,0,0,2,3,21,5,26,m^2k + k^3 log n,exponential,inefficient,CountwaystoreachthenthstairGeeksforGeeks-8.java
+
+0,0,0,4,0,0,0,2,0,0,0,0,2,5,2,9,mn,polynomial,inefficient,MinCostPathDP6GeeksforGeeks-3.java
+6,0,0,3,0,0,0,0,0,0,0,1,2,3,3,20,n,linear,efficient,MobileNumericKeypadProblemGeeksforGeeks-1.java
+3,0,0,3,0,0,0,0,0,0,0,0,2,4,2,9,n*log(log(n,linearithmic,efficient,SieveofEratosthenesGeeksforGeeks-2.java
+1,0,0,0,0,0,0,0,0,0,0,2,0,0,2,4,2^n,exponential,inefficient,TilingProblemGeeksforGeeks-1.java
+3,0,0,0,0,0,0,0,0,0,0,0,0,2,3,7,log n,logarithmic,efficient,Findwhetheragivennumberisapowerof4ornotGeeksforGeeks-6.java
+2,0,0,3,0,0,0,1,0,0,0,0,2,5,3,9,n^2,quadratic,inefficient,LongestPalindromicSubsequenceDP12GeeksforGeeks-2.java
+2,0,0,1,0,0,0,0,0,0,0,2,0,5,2,6,n^3,polynomial,inefficient,MatrixChainMultiplicationDP8GeeksforGeeks-1.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,3,2,3,log n,logarithmic,efficient,PositionofrightmostsetbitGeeksforGeeks-3.java
+1,0,0,2,0,0,0,0,0,0,0,0,0,7,2,4,n,linear,efficient,ReservoirSamplingGeeksforGeeks-1.java
+1,0,0,1,0,0,0,0,0,0,0,1,0,8,2,5,n,linear,efficient,WriteaprogramtoprintallpermutationsofagivenstringGeeksforGeeks-2.java
+1,1,0,2,0,0,0,0,0,0,0,0,0,2,2,9,num * |num|,quadratic,inefficient,GivenanumberfindthenextsmallestpalindromeGeeksforGeeks-1.java
+3,0,0,0,0,0,0,0,0,0,0,1,0,2,2,6,n,linear,efficient,LuckyNumbersGeeksforGeeks-1.java
+1,0,0,1,0,0,0,0,0,0,0,0,0,2,2,5,log n,logarithmic,efficient,WriteyouownPowerwithoutusingmultiplicationanddivisionoperatorsGeeksforGeeks-3.java
+
+11,2,0,5,0,0,0,0,2,0,0,0,0,10,3,30,n,linear,efficient,Findthelargestmultipleof3Set1UsingQueueGeeksforGeeks-1.java
+2,0,0,1,0,0,0,0,0,0,0,2,0,4,3,7,2^n,exponential,inefficient,FindtheminimumcosttoreachdestinationusingatrainGeeksforGeeks-1.java
+7,3,0,0,0,0,0,2,0,0,0,2,0,7,3,23,n,linear,efficient,MedianoftwosortedarraysofsamesizeGeeksforGeeks-2.java
+0,0,0,2,0,0,0,1,0,0,0,0,2,4,2,5,n,linear,efficient,MinimumnumberofsquareswhosesumequalstogivennumbernGeeksforGeeks-3.java
+4,0,0,1,0,0,0,0,0,0,0,0,0,0,2,9,log n,logarithmic,efficient,Programtofindwhetheragivennumberispowerof2GeeksforGeeks-2.java
+3,0,0,1,0,0,0,1,1,0,0,2,0,7,5,11,n*2n,exponential,inefficient,WeightedJobSchedulingGeeksforGeeks-1.java
+1,0,0,1,0,0,0,0,1,0,0,0,0,5,4,5,n,linear,efficient,ActivitySelectionProblemGreedyAlgo1GeeksforGeeks-2.java
+3,0,0,0,0,0,0,1,0,0,0,3,0,2,3,11,n^2,quadratic,inefficient,LongestPalindromicSubsequenceDP12GeeksforGeeks-3.java
+3,0,0,3,0,0,0,0,0,0,0,1,0,9,7,14,nlogn,linearithmic,efficient,QuickSortonDoublyLinkedListGeeksforGeeks-2.java
+6,0,0,1,0,0,0,0,0,0,0,1,0,3,2,11,log n,logarithmic,efficient,WriteanEfficientMethodtoCheckifaNumberisMultipleof3GeeksforGeeks-1.java
+4,0,0,4,0,0,0,0,0,0,0,0,4,8,2,13,v^3,polynomial,inefficient,CountallpossiblewalksfromasourcetoadestinationwithexactlykedgesGeeksforGeeks-2.java
+5,0,0,3,0,0,0,0,0,0,0,1,0,7,4,14,v+e,linear,efficient,DetectCycleinaDirectedGraphGeeksforGeeks-1.java
+1,0,0,0,0,0,0,0,0,0,0,2,0,1,2,3,n,linear,efficient,ProgramforFibonaccinumbersGeeksforGeeks-1.java
+0,0,0,5,0,0,0,2,0,0,0,0,0,11,3,10,n+k,linear,efficient,CountingSortGeeksforGeeks-2.java
+4,0,0,2,0,0,0,0,0,0,0,1,0,5,3,10,sum,linear,efficient,CountofndigitnumberswhosesumofdigitsequalstogivensumGeeksforGeeks-1.java
+2,0,0,1,0,0,0,0,0,0,0,0,0,4,2,6,n,linear,efficient,LargestSumContiguousSubarrayGeeksforGeeks-4.java
+1,0,0,1,0,0,0,0,2,0,0,0,0,7,2,4,log n,logarithmic,efficient,MedianoftwosortedarraysofsamesizeGeeksforGeeks-3.java
+3,0,0,1,0,0,0,0,2,0,0,0,0,5,2,7,m+n,linear,efficient,HowtocheckiftwogivensetsaredisjointGeeksforGeeks-2.java
+2,0,0,4,0,0,0,0,0,0,0,0,2,10,3,13,n^2,quadratic,inefficient,MultiplytwopolynomialsGeeksforGeeks-1.java
+3,0,0,2,0,0,0,2,0,0,0,0,0,6,2,11,n^1/2,sublinear,efficient,JumpSearchGeeksforGeeks-1.java
+5,0,0,0,0,0,0,1,0,0,0,4,0,2,3,12,3^m,exponential,inefficient,EditDistanceDP5GeeksforGeeks-1.java
+1,0,0,0,0,0,0,0,0,0,0,1,0,1,3,4,1,constant,efficient,Generateintegerfrom1to7withequalprobabilityGeeksforGeeks-2.java
+2,1,0,6,0,0,0,1,0,0,0,2,2,9,2,17,n log n,linearithmic,efficient,LongestIncreasingSubsequenceDP3GeeksforGeeks-3.java
+3,0,0,0,0,0,0,0,0,0,0,2,0,0,2,7,y,linear,efficient,MultiplytwointegerswithoutusingmultiplicationdivisionandbitwiseoperatorsandnoloopsGeeksforGeeks-1.java
+0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,n,linear,efficient,WriteaprogramtocalculatepowxnGeeksforGeeks-5.java
+3,0,0,1,0,0,0,0,0,0,0,1,0,4,3,8,n log n,linearithmic,efficient,LongestIncreasingSubsequenceDP3GeeksforGeeks-1.java
+0,0,0,6,0,0,0,0,1,0,0,0,0,6,4,7,n,linear,efficient,Sortnnumbersinrangefrom0ton21inlineartimeGeeksforGeeks-1.java
+7,0,0,1,0,0,0,0,0,0,0,1,0,3,2,13,n,linear,efficient,WriteanEfficientMethodtoCheckifaNumberisMultipleof3GeeksforGeeks-2.java
+
+1,1,0,1,1,0,0,0,0,0,0,0,0,4,2,5,log n,logarithmic,efficient,PositionofrightmostsetbitGeeksforGeeks-4.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,2,2,3,1,constant,efficient,ProgramtofindparityGeeksforGeeks-1.java
+2,0,0,6,0,0,0,3,0,0,0,0,2,9,2,16,mn,polynomial,inefficient,Maximumsizesquaresubmatrixwithall1sGeeksforGeeks-2.java
+
+2,0,0,4,0,0,0,0,0,0,0,0,3,4,2,11,n^3,polynomial,inefficient,MatrixChainMultiplicationDP8GeeksforGeeks-3.java
+0,0,0,2,0,0,0,0,1,0,0,0,0,6,3,2,nlogn,linearithmic,efficient,SortanarrayinwaveformGeeksforGeeks-1.java
+1,1,0,1,0,0,0,0,0,0,0,1,0,6,3,5,n,linear,efficient,WriteaprogramtoprintallpermutationsofagivenstringGeeksforGeeks-1.java
+3,0,0,1,0,0,0,0,0,0,0,5,0,3,2,8,log n,logarithmic,efficient,Countnumbersthatdontcontain3GeeksforGeeks-1.java
+3,0,0,3,0,0,0,0,0,0,0,0,0,9,3,10,m,linear,efficient,AnagramSubstringSearchOrSearchforallpermutationsGeeksforGeeks-1.java
+5,0,0,4,1,0,0,0,0,0,0,1,2,9,3,18,"(min(r, n-r^2  * log(n",linearithmic,efficient,BinomialCoefficientDP9GeeksforGeeks-5.java
+1,0,0,3,0,0,0,1,0,0,0,0,2,7,2,7,n^2,quadratic,inefficient,LongestEvenLengthSubstringsuchthatSumofFirstandSecondHalfissameGeeksforGeeks-3.java
+2,1,0,5,0,0,0,0,0,0,0,0,2,10,3,14,n log n,linearithmic,efficient,UglyNumbersGeeksforGeeks-4.java
+4,0,0,5,0,0,0,2,2,0,0,1,2,17,8,26,n,linear,efficient,ClosestPairofPointsusingDivideandConqueralgorithmGeeksforGeeks-1.java
+3,0,0,1,0,0,0,0,0,0,0,0,0,4,2,7,n,linear,efficient,MinimumadjacentswapstomovemaximumandminimumtocornersGeeksforGeeks-1.java
+2,0,0,2,1,0,0,1,0,0,0,0,2,5,2,9,n,linear,efficient,MinimumnumberofsquareswhosesumequalstogivennumbernGeeksforGeeks-2.java
+3,0,0,4,0,0,0,0,0,0,0,0,2,5,2,12,sum*n,quadratic,inefficient,PartitionproblemDP18GeeksforGeeks-4.java
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,constant,efficient,Programtofindwhetheragivennumberispowerof2GeeksforGeeks-4.java
+0,0,0,2,0,0,0,0,0,0,0,0,2,4,3,5,mn,polynomial,inefficient,CountwaystoreachthenthstairGeeksforGeeks-4.java
+4,1,0,5,0,0,0,0,0,0,0,0,3,15,2,20,n^3,polynomial,inefficient,Maximumsumrectangleina2DmatrixDP27GeeksforGeeks-1.java
+3,0,0,0,0,0,0,1,0,0,0,3,0,1,3,8,mn,polynomial,inefficient,MinCostPathDP6GeeksforGeeks-1.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,4,2,3,1,constant,efficient,SwapalloddandevenbitsGeeksforGeeks-1.java
+3,1,0,1,0,0,0,1,0,0,0,0,0,3,5,16,n^2,quadratic,inefficient,WordWrapProblemDP19GeeksforGeeks-1.java
+2,0,0,2,1,0,0,1,0,0,0,0,2,3,2,10,n^2,quadratic,inefficient,MinimumnumberofjumpstoreachendGeeksforGeeks-2.java
+4,0,0,0,0,0,0,1,0,0,0,6,0,4,4,9,n,linear,efficient,VertexCoverProblemSet2DynamicProgrammingSolutionforTreeGeeksforGeeks-1.java
+
+3,3,0,2,0,0,0,0,0,0,0,0,0,9,3,15,log n,logarithmic,efficient,Counttotalsetbitsinallnumbersfrom1tonGeeksforGeeks-6.java
+3,0,0,3,0,0,0,0,0,0,0,0,2,8,2,10,mv,polynomial,inefficient,FindminimumnumberofcoinsthatmakeagivenvalueGeeksforGeeks-2.java
+0,0,0,0,0,0,0,0,1,0,0,0,0,2,2,1,n log n,linearithmic,efficient,KthSmallestLargestElementinUnsortedArraySet1GeeksforGeeks-1.java
+2,0,0,2,1,0,0,3,0,0,1,0,2,7,2,8,n^2,quadratic,inefficient,LengthofthelargestsubarraywithcontiguouselementsSet2GeeksforGeeks-1.java
+2,0,0,0,0,0,0,0,0,0,0,2,0,1,2,5,n*k,quadratic,inefficient,BinomialCoefficientDP9GeeksforGeeks-1.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,2,3,3,n,linear,efficient,HowtocheckifagivennumberisFibonaccinumberGeeksforGeeks-1.java
+5,0,0,8,0,0,0,0,0,0,0,1,0,18,7,21,v+e,linear,efficient,ShortestPathinDirectedAcyclicGraphGeeksforGeeks-1.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,6,2,2,n^2,quadratic,inefficient,ShuffleagivenarrayusingFisherYatesshuffleAlgorithmGeeksforGeeks-1.java
+4,0,0,0,0,0,0,0,0,0,0,2,0,5,2,8,mn,polynomial,inefficient,GiventwostringsfindiffirststringisasubsequenceofsecondGeeksforGeeks-1.java
+3,0,0,0,0,0,0,0,0,0,0,7,0,2,2,7,log n,logarithmic,efficient,ProgramforFibonaccinumbersGeeksforGeeks-6.java
+1,0,0,1,0,0,0,0,0,0,0,0,0,1,2,4,log b,logarithmic,efficient,RussianPeasantMultiplytwonumbersusingbitwiseoperatorsGeeksforGeeks-1.java
+3,1,0,0,0,0,0,0,0,0,0,1,0,3,2,8,logn,logarithmic,efficient,WriteaprogramtocalculatepowxnGeeksforGeeks-3.java
+1,0,0,7,0,0,0,0,0,0,0,0,3,6,3,13,v^3,polynomial,inefficient,TransitiveclosureofagraphGeeksforGeeks-1.java
+6,0,0,2,0,0,0,0,0,0,0,1,0,6,3,15,v+e,linear,efficient,CheckwhetheragivengraphisBipartiteornotGeeksforGeeks-4.java
+9,0,0,6,1,0,0,0,0,0,0,1,0,13,6,23,v+e,linear,efficient,EulerianpathandcircuitforundirectedgraphGeeksforGeeks-1.java
+4,1,0,2,0,0,0,0,0,0,0,0,2,6,2,10,n^2,quadratic,inefficient,MinimumnumberofjumpstoreachendGeeksforGeeks-3.java
+1,0,0,1,0,0,1,1,0,0,0,0,0,4,2,4,log n,logarithmic,efficient,ExponentialSearchGeeksforGeeks-1.java
+8,1,0,1,0,0,0,1,0,0,0,3,0,8,5,24,n^2,quadratic,inefficient,MaximumLengthChainofPairsDP20GeeksforGeeks-2.java
+
+6,0,0,11,0,0,0,0,0,0,0,0,2,21,4,30,n + m + z,linear,efficient,AhoCorasickAlgorithmforPatternSearchingGeeksforGeeks-1.java
+
+2,0,0,4,0,0,0,0,0,0,0,0,2,8,2,9,sum*n,quadratic,inefficient,DynamicProgrammingSubsetSumProblem-2.java
+0,0,0,1,0,0,0,4,0,0,0,0,0,7,2,3,n,linear,efficient,MaximumprofitbybuyingandsellingashareatmosttwiceGeeksforGeeks-2.java
+0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,log n,logarithmic,efficient,ProgramforFibonaccinumbersGeeksforGeeks-7.java
+5,0,0,0,0,0,0,0,0,0,0,2,0,3,3,10,n,linear,efficient,CountPossibleDecodingsofagivenDigitSequenceGeeksforGeeks-1.java
+1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,1,constant,efficient,NexthighernumberwithsamenumberofsetbitsGeeksforGeeks-1.java
+0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,1,constant,efficient,SwapalloddandevenbitsGeeksforGeeks-2.java
+3,0,0,2,0,0,0,0,0,0,0,2,2,4,3,13,n*k,quadratic,inefficient,BinomialCoefficientDP9GeeksforGeeks-4.java
+0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,1,constant,efficient,Computemodulusdivisionbyapowerof2numberGeeksforGeeks-1.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,2,3,3,n,linear,efficient,CountsetbitsinanintegerGeeksforGeeks-5.java
+1,0,0,0,0,0,0,0,0,0,0,2,0,1,3,4,2^n,exponential,inefficient,CountwaystoreachthenthstairGeeksforGeeks-1.java
+1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,1,constant,efficient,DetectiftwointegershaveoppositesignsGeeksforGeeks-4.java
+3,1,0,3,1,0,0,0,1,0,0,0,0,6,3,13,n log n,linearithmic,efficient,FindnextgreaternumberwithsamesetofdigitsGeeksforGeeks-1.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,5,2,3,n,linear,efficient,FindtheelementthatappearsonceGeeksforGeeks-1.java
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,1,constant,efficient,Programtofindwhetheragivennumberispowerof2GeeksforGeeks-5.java
+2,0,0,2,0,0,0,0,0,0,0,0,0,6,3,5,nlogn,linearithmic,efficient,SortanarrayinwaveformGeeksforGeeks-2.java
+15,8,0,4,0,0,0,0,0,0,0,4,2,12,3,43,n^3,polynomial,inefficient,BooleanParenthesizationProblemDP37GeeksforGeeks-2.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,2,2,3,log n,logarithmic,efficient,CountsetbitsinanintegerGeeksforGeeks-1.java
+1,0,0,3,0,0,0,0,0,0,0,0,2,8,3,5,n^2,quadratic,inefficient,BubbleSortGeeksforGeeks-1.java
+1,0,0,0,0,0,0,0,0,0,0,0,0,4,3,3,1,constant,efficient,CheckwhetheragivenpointliesinsideatriangleornotGeeksforGeeks-1.java
+3,0,0,1,0,0,0,0,0,0,0,0,0,5,2,6,n1 + n2 + n3,linear,efficient,FindcommonelementsinthreesortedarraysGeeksforGeeks-1.java
+3,0,0,7,0,0,0,2,0,0,0,0,2,12,2,17,n^2,quadratic,inefficient,GivenamatrixofOandXfindthelargestsubsquaresurroundedbyXGeeksforGeeks-2.java
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,log n,logarithmic,efficient,BirthdayParadoxGeeksforGeeks-1.java
+4,0,0,4,0,0,0,0,0,0,0,0,3,11,2,16,v+e,linear,efficient,CheckwhetheragivengraphisBipartiteornotGeeksforGeeks-3.java
+4,1,0,3,0,0,0,0,0,0,0,0,2,5,2,13,n^2,quadratic,inefficient,MagicSquareODDOrderGeeksforGeeks-1.java
+
+2,0,0,8,0,0,0,2,0,0,0,0,2,6,2,17,mn,polynomial,inefficient,Maximumsizesquaresubmatrixwithall1sGeeksforGeeks-1.java
+4,0,0,4,0,0,0,1,0,0,0,0,4,8,2,14,v^3k,exponential,inefficient,ShortestpathwithexactlykedgesinadirectedandweightedgraphGeeksforGeeks-2.java
+4,0,0,4,0,0,0,2,0,0,0,1,0,12,4,11,e*(v+e,polynomial,inefficient,BridgesinagraphGeeksforGeeks-1.java
+4,0,0,0,0,0,0,1,0,0,0,0,0,3,2,6,1,constant,efficient,CalculatetheanglebetweenhourhandandminutehandGeeksforGeeks-1.java
+0,0,0,3,0,0,0,0,1,0,0,0,2,8,3,5,n^2,quadratic,inefficient,InsertionSortGeeksforGeeks-1.java
+2,0,0,1,0,0,0,0,0,0,0,0,0,5,2,6,n,linear,efficient,LinearSearchGeeksforGeeks-1.java
+5,0,0,1,0,0,0,0,0,0,0,3,0,4,3,12,2^n,exponential,inefficient,PartitionproblemDP18GeeksforGeeks-1.java
+4,0,0,4,0,0,0,0,0,0,1,0,3,11,2,17,n^2 * m,exponential,inefficient,WordLadderLengthofshortestchaintoreachatargetwordGeeksforGeeks-1.java
+
+1,0,0,1,0,0,0,0,0,0,0,1,0,6,2,4,|n|^2,quadratic,inefficient,Computesumofdigitsinallnumbersfrom1tonGeeksforGeeks-2.java
+3,0,0,1,0,0,0,0,0,0,0,0,0,4,2,7,n,linear,efficient,CountPossibleDecodingsofagivenDigitSequenceGeeksforGeeks-2.java
+2,1,0,3,0,0,0,2,0,0,0,0,2,8,2,9,mn,polynomial,inefficient,EditDistanceDP5GeeksforGeeks-3.java
+4,0,0,3,0,0,0,0,0,0,0,0,0,9,3,12,v+e,linear,efficient,FindifthereisapathbetweentwoverticesinadirectedgraphGeeksforGeeks-1.java
+3,0,0,1,0,0,0,0,0,0,0,0,0,7,2,8,n,linear,efficient,FindIndexof0tobereplacedwith1togetlongestcontinuoussequenceof1sinabinaryarrayGeeksforGeeks-1.java
+2,0,0,1,0,0,0,0,0,0,0,0,0,9,2,5,1,constant,efficient,FindtheclosestpairfromtwosortedarraysGeeksforGeeks-1.java
+3,0,0,2,0,0,0,0,0,0,0,8,2,6,3,12,nm,quadratic,inefficient,FindthenumberofislandsSet1UsingDFSGeeksforGeeks-2.java
+3,0,0,0,0,0,0,0,0,0,0,2,0,2,2,5,log n,logarithmic,efficient,ProgramforFibonaccinumbersGeeksforGeeks-8.java
+4,2,0,4,0,0,0,0,0,0,0,0,0,4,2,16,n,linear,efficient,MobileNumericKeypadProblemGeeksforGeeks-3.java
+1,0,0,3,0,0,0,0,0,0,0,0,0,7,3,7,n,linear,efficient,RandomnumbergeneratorinarbitraryprobabilitydistributionfashionGeeksforGeeks-1.java
+9,0,0,7,0,0,0,0,0,0,0,1,2,9,4,28,9^(n*n,exponential,inefficient,SudokuBacktracking7GeeksforGeeks-1.java
+6,0,0,6,0,0,0,2,0,0,0,2,0,16,4,14,v*(v+e,polynomial,inefficient,ArticulationPointsorCutVerticesinaGraphGeeksforGeeks-1.java
+2,1,0,1,0,0,0,1,0,0,0,3,0,5,2,9,n^2,quadratic,inefficient,CuttingaRodDP13GeeksforGeeks-2.java
+
+1,0,0,2,0,1,0,0,0,0,0,2,0,11,3,8,n log n,linearithmic,efficient,HuffmanCodingGreedyAlgo3GeeksforGeeks-1.java
+3,1,0,3,0,0,0,0,0,0,0,0,3,8,5,15,n^3,polynomial,inefficient,MinimumCostPolygonTriangulationGeeksforGeeks-2.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,2,2,2,log n,logarithmic,efficient,AddtwonumberswithoutusingarithmeticoperatorsGeeksforGeeks-1.java
+1,0,0,3,0,0,0,0,0,0,0,0,0,6,3,7,v+e,linear,efficient,BreadthFirstSearchorBFSforaGraphGeeksforGeeks-1.java
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,constant,efficient,DetectiftwointegershaveoppositesignsGeeksforGeeks-2.java
+0,0,0,3,0,0,0,0,0,0,1,0,0,8,2,7,log n,logarithmic,efficient,FindtheelementthatappearsonceGeeksforGeeks-3.java
+5,0,0,0,0,0,0,1,0,0,0,6,0,4,4,11,n,linear,efficient,VertexCoverProblemSet2DynamicProgrammingSolutionforTreeGeeksforGeeks-2.java
+2,0,0,7,0,0,0,0,0,0,0,0,3,6,3,14,v^3,polynomial,inefficient,FloydWarshallAlgorithmDP16GeeksforGeeks-1.java
+7,0,0,5,0,0,0,0,0,0,0,2,2,6,6,26,9^(n*n,exponential,inefficient,SudokuBacktracking7GeeksforGeeks-3.java
+2,0,0,0,0,0,0,0,0,0,0,4,0,2,2,5,n,linear,efficient,WriteaprogramtocalculatepowxnGeeksforGeeks-1.java
+1,0,0,1,0,0,0,0,0,0,0,0,0,4,2,4,n,linear,efficient,ActivitySelectionProblemGreedyAlgo1GeeksforGeeks-1.java
+1,0,0,1,0,0,0,0,0,0,0,0,0,4,2,5,n,linear,efficient,CountpossiblewaystoconstructbuildingsGeeksforGeeks-1.java
+2,1,0,5,0,0,0,0,0,0,0,0,3,9,3,16,n^4,polynomial,inefficient,GivenamatrixofOandXfindthelargestsubsquaresurroundedbyXGeeksforGeeks-1.java
+5,1,0,6,0,0,0,0,0,0,0,0,0,9,5,21,num * |num|,quadratic,inefficient,GivenanumberfindthenextsmallestpalindromeGeeksforGeeks-2.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,3,2,3,n,linear,efficient,ProgramforFibonaccinumbersGeeksforGeeks-2.java
+4,0,0,4,0,0,0,0,0,0,0,1,2,7,3,14,sum,linear,efficient,CountofndigitnumberswhosesumofdigitsequalstogivensumGeeksforGeeks-2.java
+3,0,0,1,0,0,0,0,0,0,0,1,0,6,2,8,mv,polynomial,inefficient,FindminimumnumberofcoinsthatmakeagivenvalueGeeksforGeeks-1.java
+2,0,0,2,0,0,0,0,0,0,0,0,2,6,2,8,mn,polynomial,inefficient,HowtocheckiftwogivensetsaredisjointGeeksforGeeks-1.java
+0,0,0,4,0,0,0,0,1,0,0,0,3,9,3,7,n^2,quadratic,inefficient,ShellSortGeeksforGeeks-1.java
+1,0,0,4,0,0,0,1,0,0,0,0,0,9,4,8,mn,polynomial,inefficient,BoyerMooreAlgorithmforPatternSearchingGeeksforGeeks-1.java
+4,0,0,3,0,0,0,0,0,0,0,1,0,7,3,14,m+n,linear,efficient,ChannelAssignmentProblemGeeksforGeeks-1.java
+7,0,0,5,4,0,0,0,0,0,0,0,0,3,2,26,n,linear,efficient,FindtheMinimumlengthUnsortedSubarraysortingwhichmakesthecompletearraysortedGeeksforGeeks-1.java
+3,1,0,1,0,1,0,0,0,0,0,0,0,6,3,13,n log k,linearithmic,efficient,KthSmallestLargestElementinUnsortedArraySet1GeeksforGeeks-7.java
+5,0,0,0,0,0,0,1,0,0,0,10,0,3,2,11,n,linear,efficient,LargestIndependentSetProblemDP26GeeksforGeeks-2.java
+0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,0,1,constant,efficient,RotatebitsofanumberGeeksforGeeks-2.java
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,constant,efficient,DetectiftwointegershaveoppositesignsGeeksforGeeks-3.java
+2,0,0,5,1,0,0,0,0,0,0,0,3,10,3,11,v^2 + e,quadratic,inefficient,GraphColoringSet2GreedyAlgorithmGeeksforGeeks-1.java
+5,0,0,8,0,0,0,0,0,0,0,1,0,16,6,20,v+e,linear,efficient,LongestPathinaDirectedAcyclicGraphGeeksforGeeks-1.java
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,1,constant,efficient,Smallestpowerof2greaterthanorequaltonGeeksforGeeks-4.java
+2,0,0,5,0,0,0,0,0,0,0,0,2,11,4,11,e log v,linearithmic,efficient,Dijsktrasalgorithm-1.java
+5,0,0,2,0,0,0,0,0,0,0,1,0,11,9,17,n log n,linearithmic,efficient,KthSmallestLargestElementinUnsortedArraySet1GeeksforGeeks-3.java
+1,0,0,2,0,0,0,3,0,0,0,0,2,7,4,8,n^2,quadratic,inefficient,LengthofthelargestsubarraywithcontiguouselementsSet1GeeksforGeeks-1.java
+1,0,0,3,0,0,0,0,0,0,0,0,3,8,2,8,n^2,quadratic,inefficient,LongestEvenLengthSubstringsuchthatSumofFirstandSecondHalfissameGeeksforGeeks-1.java
+3,0,0,0,0,0,0,0,0,0,0,1,0,7,4,6,log n,logarithmic,efficient,ProgramforFibonaccinumbersGeeksforGeeks-5.java
+0,0,0,2,0,0,0,0,0,0,0,0,2,6,2,3,mn,polynomial,inefficient,CoinChangeDP7GeeksforGeeks-2.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,5,2,2,n,linear,efficient,HornersMethodforPolynomialEvaluationGeeksforGeeks-1.java
+1,0,0,2,0,0,0,0,0,0,0,0,2,4,2,5,n^2,quadratic,inefficient,PascalsTriangleGeeksforGeeks-2.java
+
+1,0,0,1,0,0,0,0,0,0,0,1,0,3,3,5,n log n,linearithmic,efficient,Counttotalsetbitsinallnumbersfrom1tonGeeksforGeeks-1.java
+3,1,0,5,0,0,0,0,0,0,0,0,2,5,2,15,n^2,quadratic,inefficient,PalindromePartitioningDP17GeeksforGeeks-4.java
+2,0,0,4,0,0,0,0,0,0,0,0,2,7,2,9,n*log(log(n,linearithmic,efficient,SieveofEratosthenesGeeksforGeeks-1.java
+0,0,0,3,0,0,0,0,0,0,0,0,0,2,2,4,n,linear,efficient,CountnumberofwaystoreachagivenscoreinagameGeeksforGeeks-1.java
+6,1,0,2,0,0,0,0,0,0,0,3,2,6,2,19,sum*n,quadratic,inefficient,DynamicProgrammingSubsetSumProblem-3.java
+0,0,0,3,0,0,0,0,0,0,0,0,0,1,2,5,n^1/2,sublinear,efficient,CountDistinctNonNegativeIntegerPairsxythatSatisfytheInequalityxxyynGeeksforGeeks-2.java
+1,0,0,1,0,0,0,0,0,0,0,0,0,3,2,4,log n,logarithmic,efficient,CounttrailingzeroesinfactorialofanumberGeeksforGeeks-1.java
+1,0,0,3,0,0,0,0,0,0,0,0,2,2,2,7,n^1/2,sublinear,efficient,Efficientprogramtoprintallprimefactorsofagivennumber-1.java
+1,1,0,1,0,0,0,0,0,0,0,0,0,3,2,6,log(n,logarithmic,efficient,WriteaprogramtocalculatepowxnGeeksforGeeks-6.java
+6,0,0,4,0,0,0,0,0,0,0,0,0,7,3,18,v+e,linear,efficient,CheckwhetheragivengraphisBipartiteornotGeeksforGeeks-2.java
+1,0,0,1,0,0,0,0,0,0,0,0,0,2,2,4,n,linear,efficient,Efficientprogramtoprintallprimefactorsofagivennumber-2.java
+6,0,0,3,0,0,0,0,0,0,0,2,0,8,3,17,k,linear,efficient,FindkclosestelementstoagivenvalueGeeksforGeeks-1.java
+2,0,0,8,0,0,0,1,0,0,0,0,2,12,3,20,max_flow * e,quadratic,inefficient,FordFulkersonAlgorithmforMaximumFlowProblemGeeksforGeeks-1.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,2,2,3,"min(x, y, z",linear,efficient,SmallestofthreeintegerswithoutcomparisonoperatorsGeeksforGeeks-1.java
+1,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3,log n,logarithmic,efficient,CountsetbitsinanintegerGeeksforGeeks-4.java
+1,0,0,1,0,0,0,0,0,0,0,1,0,3,3,5,2^n,exponential,inefficient,CountwaystoreachthenthstairGeeksforGeeks-2.java
+3,0,0,1,0,0,0,0,0,0,0,0,0,1,2,8,log n,logarithmic,efficient,Findwhetheragivennumberisapowerof4ornotGeeksforGeeks-1.java
+
+0,0,0,1,0,0,0,0,0,0,0,0,0,5,2,3,n,linear,efficient,FindtheNumberOccurringOddNumberofTimesGeeksforGeeks-3.java
+1,0,0,2,0,0,0,1,0,0,0,3,2,5,2,7,n^2,quadratic,inefficient,PalindromePartitioningDP17GeeksforGeeks-3.java
+3,1,0,5,0,0,0,0,0,0,0,2,3,13,4,17,log n,logarithmic,efficient,CountwaystoreachthenthstairGeeksforGeeks-7.java
+5,0,0,0,0,0,0,0,0,0,0,2,0,5,2,10,log n,logarithmic,efficient,InterpolationSearchGeeksforGeeks-1.java
+2,0,0,1,0,0,0,0,0,0,0,0,0,4,2,5,n,linear,efficient,LargestSumContiguousSubarrayGeeksforGeeks-1.java
+16,6,0,0,0,0,0,4,0,0,0,0,0,13,5,53,n,linear,efficient,HowtocheckifagivenpointliesinsideoroutsideapolygonGeeksforGeeks-1.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,3,2,2,n,linear,efficient,ProgramfornthCatalanNumberGeeksforGeeks-4.java
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,log n,logarithmic,efficient,Smallestpowerof2greaterthanorequaltonGeeksforGeeks-3.java
+
+0,0,0,2,0,0,0,0,0,0,0,0,0,4,3,5,n |n|,quadratic,inefficient,Computesumofdigitsinallnumbersfrom1tonGeeksforGeeks-1.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,4,2,2,n,linear,efficient,EfficientprogramtocalculateexGeeksforGeeks-1.java
+3,0,0,2,0,0,0,0,0,0,0,0,0,2,3,15,n,linear,efficient,MinimumnumberofsquareswhosesumequalstogivennumbernGeeksforGeeks-6.java
+2,0,0,3,0,0,0,0,0,0,0,0,2,3,2,11,log n,logarithmic,efficient,FindthesmallestnumberwhosedigitsmultiplytoagivennumbernGeeksforGeeks-1.java
+2,1,0,5,0,0,0,0,0,0,0,2,0,10,5,18,n log n,linearithmic,efficient,MergeSortforLinkedListsGeeksforGeeks-2.java
+1,0,0,2,0,0,0,0,0,0,0,0,0,4,3,8,n,linear,efficient,ProgramfornthCatalanNumberGeeksforGeeks-3.java
+6,0,0,0,0,0,1,0,0,0,0,2,0,6,2,13,log n,logarithmic,efficient,SearchinanalmostsortedarrayGeeksforGeeks-1.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,4,2,3,n^1/2,sublinear,efficient,BabylonianmethodforsquarerootGeeksforGeeks-1.java
+0,0,0,2,0,0,0,0,0,0,0,0,2,1,1,2,1,constant,efficient,Generateintegerfrom1to7withequalprobabilityGeeksforGeeks-1.java
+5,0,0,6,0,0,0,0,0,2,1,0,2,21,2,22,n^2 * m,exponential,inefficient,WordLadderLengthofshortestchaintoreachatargetwordGeeksforGeeks-2.java
+2,0,0,1,0,0,0,0,0,0,0,2,0,3,3,9,n,linear,efficient,CountwaystoreachthenthstairGeeksforGeeks-3.java
+1,0,0,4,0,0,0,1,0,0,0,0,2,3,3,8,mn,polynomial,inefficient,MinCostPathDP6GeeksforGeeks-2.java
+2,0,0,2,0,0,0,1,0,0,0,2,0,5,3,11,n^3,polynomial,inefficient,MatrixChainMultiplicationDP8GeeksforGeeks-2.java
+3,0,0,4,0,0,0,0,0,0,0,1,2,9,3,14,m+n,linear,efficient,MaximumBipartiteMatchingGeeksforGeeks-1.java
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,1,constant,efficient,Programtofindwhetheragivennumberispowerof2GeeksforGeeks-1.java
+1,0,0,1,0,0,0,0,0,0,0,0,0,2,2,4,log n,logarithmic,efficient,Smallestpowerof2greaterthanorequaltonGeeksforGeeks-2.java
+2,0,0,0,0,0,0,0,0,0,0,1,0,0,3,6,b,linear,efficient,WriteyouownPowerwithoutusingmultiplicationanddivisionoperatorsGeeksforGeeks-2.java
+3,1,0,4,1,0,0,0,1,0,0,0,0,8,5,12,n x n!,exponential,inefficient,PrintallpermutationsinsortedlexicographicorderGeeksforGeeks-2.java
+6,1,0,4,0,0,0,0,0,0,0,2,0,10,3,18,2^n,exponential,inefficient,TugofWarGeeksforGeeks-1.java
+2,0,0,4,0,0,0,0,0,0,0,0,2,4,2,7,n^2,quadratic,inefficient,MaximumSumIncreasingSubsequenceDP14GeeksforGeeks-1.java
+
+
+2,0,0,0,0,0,0,0,0,0,0,1,0,2,2,5,log|n|,logarithmic,efficient,WriteaprogramtocalculatepowxnGeeksforGeeks-4.java
+1,0,0,1,0,0,0,0,0,0,0,1,0,7,3,5,|n|,linear,efficient,Computesumofdigitsinallnumbersfrom1tonGeeksforGeeks-3.java
+5,2,0,2,0,0,0,0,0,0,0,2,2,6,2,19,mn,polynomial,inefficient,GiventwostringsfindiffirststringisasubsequenceofsecondGeeksforGeeks-2.java
+3,0,0,1,0,0,0,0,0,0,0,1,0,5,2,8,n^2,quadratic,inefficient,MinimumnumberofjumpstoreachendGeeksforGeeks-1.java
+
+1,0,0,2,0,0,0,0,0,0,0,0,0,8,2,6,sum,linear,efficient,CountofndigitnumberswhosesumofdigitsequalstogivensumGeeksforGeeks-3.java
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,constant,efficient,CountwaystoreachthenthstairGeeksforGeeks-6.java
+8,0,0,1,0,0,0,0,0,0,0,2,0,8,7,20,n^2,quadratic,inefficient,GivennappointmentsfindallconflictingappointmentsGeeksforGeeks-1.java
+1,0,0,3,0,0,0,0,0,0,0,0,2,9,2,7,n^2,quadratic,inefficient,LongestEvenLengthSubstringsuchthatSumofFirstandSecondHalfissameGeeksforGeeks-2.java
+4,0,0,6,0,0,0,0,0,0,0,1,2,15,3,17,n^2,quadratic,inefficient,WordWrapProblemDP19GeeksforGeeks-2.java
+1,0,0,1,0,0,0,0,0,0,0,0,0,4,3,7,x,linear,efficient,CheckifbinaryrepresentationofanumberispalindromeGeeksforGeeks-1.java
+4,0,0,2,0,0,0,0,0,0,0,3,0,6,2,13,mn,polynomial,inefficient,CoinChangeDP7GeeksforGeeks-4.java
+1,0,0,1,0,0,0,0,0,0,0,0,0,4,2,3,n,linear,efficient,FindthetwononrepeatingelementsinanarrayofrepeatingelementsUniqueNumbers2GeeksforGeeks-2.java
+4,1,0,2,0,0,0,0,0,0,0,0,0,8,2,15,n,linear,efficient,KthSmallestLargestElementinUnsortedArraySet1GeeksforGeeks-6.java
+3,0,0,7,0,0,0,0,0,0,0,0,2,6,2,11,n^2,quadratic,inefficient,LongestBitonicSubsequenceDP15GeeksforGeeks-1.java
+3,0,0,2,0,0,0,1,0,0,0,3,2,7,2,12,2^n,exponential,inefficient,LongestCommonSubsequenceDP4GeeksforGeeks-2.java
+2,0,0,5,0,0,0,0,0,0,0,0,3,12,3,14,n^3,polynomial,inefficient,OptimalBinarySearchTreeDP24GeeksforGeeks-2.java
+4,0,0,0,0,0,1,0,0,0,0,2,0,6,2,9,log n,logarithmic,efficient,BinarySearchGeeksforGeeks-1.java
+2,1,0,4,0,0,0,1,0,0,0,0,3,5,2,11,n^3,polynomial,inefficient,PalindromePartitioningDP17GeeksforGeeks-2.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,6,2,2,n,linear,efficient,Countallpossiblegroupsofsize2or3thathavesumasmultipleof3GeeksforGeeks-1.java
+3,0,0,3,0,0,0,0,0,0,0,1,0,8,4,11,log n,logarithmic,efficient,DisjointSetOrUnionFindSet1DetectCycleinanUndirectedGraphGeeksforGeeks-1.java
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,log n,logarithmic,efficient,Findwhetheragivennumberisapowerof4ornotGeeksforGeeks-3.java
+2,0,0,6,0,0,0,0,0,0,0,0,2,17,3,13,ve,quadratic,inefficient,BellmanFordAlgorithmDP23GeeksforGeeks-1.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,5,1,2,log n,logarithmic,efficient,BirthdayParadoxGeeksforGeeks-2.java
+5,0,0,4,1,0,0,0,0,0,0,0,2,9,2,15,nm,quadratic,inefficient,RabinKarpAlgorithmforPatternSearchingGeeksforGeeks-1.java
+4,0,0,9,0,0,0,0,0,0,0,1,2,16,6,19,v+e,linear,efficient,StronglyConnectedComponentsGeeksforGeeks-1.java
+0,0,0,3,0,0,0,0,0,0,0,0,2,5,3,5,1,constant,efficient,GraphanditsrepresentationsGeeksforGeeks-2.java
+4,1,0,4,0,0,0,0,0,0,0,0,0,9,2,14,n1 + n2 + n3,linear,efficient,FindcommonelementsinthreesortedarraysGeeksforGeeks-2.java
+1,0,0,3,1,0,0,1,1,0,0,0,2,8,2,8,n^2,quadratic,inefficient,JobSequencingProblemGeeksforGeeks-1.java
+0,0,0,4,0,0,0,0,0,0,0,1,0,7,5,7,n,linear,efficient,LexicographicrankofastringGeeksforGeeks-2.java
+
+1,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3,log n,logarithmic,efficient,CountsetbitsinanintegerGeeksforGeeks-2.java
+1,1,0,2,0,0,0,0,0,0,0,0,0,7,2,7,n log n,linearithmic,efficient,FindthetwononrepeatingelementsinanarrayofrepeatingelementsUniqueNumbers2GeeksforGeeks-1.java
+0,0,0,2,0,0,0,0,0,0,0,0,0,6,2,5,n,linear,efficient,ProgramfornthCatalanNumberGeeksforGeeks-5.java
+5,0,0,1,0,0,0,1,0,0,0,1,0,6,2,12,v^k,exponential,inefficient,ShortestpathwithexactlykedgesinadirectedandweightedgraphGeeksforGeeks-1.java
+
+0,0,0,1,0,0,0,0,0,0,0,0,0,3,2,3,n^1/2,sublinear,efficient,BabylonianmethodforsquarerootGeeksforGeeks-2.java
+0,0,0,3,0,0,0,0,0,0,0,0,2,4,2,7,n^2,quadratic,inefficient,ProgramfornthCatalanNumberGeeksforGeeks-2.java
+
+1,0,0,2,0,0,0,3,0,0,0,0,2,5,2,6,n^2,quadratic,inefficient,MinimumNumberofPlatformsRequiredforaRailwayBusStationGeeksforGeeks-1.java
+3,0,0,2,0,0,0,0,0,0,0,2,0,7,4,11,n,linear,efficient,NutsBoltsProblemLockKeyproblemSet1GeeksforGeeks-1.java
+1,0,0,1,0,0,0,0,0,0,0,0,0,6,2,5,n,linear,efficient,CountwaystoreachthenthstairGeeksforGeeks-5.java
+2,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,log n,logarithmic,efficient,Findwhetheragivennumberisapowerof4ornotGeeksforGeeks-4.java
+0,0,0,1,0,0,0,2,0,0,0,0,0,6,2,3,n,linear,efficient,LargestSumContiguousSubarrayGeeksforGeeks-3.java
+2,0,0,2,0,0,0,1,0,0,0,0,2,10,3,8,mn,polynomial,inefficient,LongestCommonSubsequenceDP4GeeksforGeeks-3.java
+2,0,0,1,1,0,0,1,0,0,0,1,0,3,2,7,n,linear,efficient,MinimumnumberofsquareswhosesumequalstogivennumbernGeeksforGeeks-1.java
+
+2,0,0,2,0,0,0,1,0,0,0,0,2,6,2,7,nw,quadratic,inefficient,01KnapsackProblemDP10GeeksforGeeks-3.java
+4,0,0,7,0,0,0,3,0,0,0,0,0,15,2,17,n1 + n2 + n3,linear,efficient,FindcommonelementsinthreesortedarraysGeeksforGeeks-3.java
+2,0,0,2,0,0,0,0,0,0,0,0,2,5,2,8,n^2,quadratic,inefficient,FindtheNumberOccurringOddNumberofTimesGeeksforGeeks-1.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,4,2,3,n,linear,efficient,UglyNumbersGeeksforGeeks-3.java
+5,0,0,10,0,0,0,0,0,1,0,0,2,14,3,26,n*log(n,linearithmic,efficient,BinomialCoefficientDP9GeeksforGeeks-6.java
+0,0,0,1,0,0,0,0,0,0,0,0,0,3,2,3,n,linear,efficient,Countnumberofbinarystringswithoutconsecutive1sGeeksforGeeks-1.java
+4,1,0,6,0,0,0,0,1,0,0,1,0,15,5,17,e log v,linearithmic,efficient,KruskalsMinimumSpanningTreeAlgorithmGreedyAlgo2GeeksforGeeks-1.java
+2,0,0,4,0,0,0,0,0,0,0,7,2,4,2,7,n log n,linearithmic,efficient,LongestIncreasingSubsequenceDP3GeeksforGeeks-2.java
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,log n,logarithmic,efficient,PositionofrightmostsetbitGeeksforGeeks-2.java
+2,0,0,7,0,0,0,0,0,0,0,0,0,16,4,15,log v,logarithmic,efficient,PrimsMSTforAdjacencyListRepresentationGreedyAlgo6GeeksforGeeks-1.java
+4,0,0,5,0,0,0,0,0,0,0,1,2,8,5,19,8^(n^2,exponential,inefficient,TheKnightstourproblemBacktracking1GeeksforGeeks-1.java
+3,2,0,4,0,0,0,0,0,0,0,0,3,10,3,13,n2,quadratic,inefficient,ZalgorithmLineartimepatternsearchingAlgorithmGeeksforGeeks-1.java
+1,0,0,2,0,0,0,1,0,0,0,0,2,5,2,7,n^2,quadratic,inefficient,LongestEvenLengthSubstringsuchthatSumofFirstandSecondHalfissameGeeksforGeeks-4.java
+3,0,0,4,0,0,0,0,0,0,0,0,3,12,2,15,n^3,polynomial,inefficient,BooleanParenthesizationProblemDP37GeeksforGeeks-1.java
+10,0,0,2,0,0,0,0,0,0,0,0,0,6,2,20,n,linear,efficient,CheckagivensentenceforagivensetofsimplegrammarrulesGeeksforGeeks-1.java
+1,0,0,1,0,0,0,0,0,0,0,0,0,3,2,4,log n,logarithmic,efficient,CountsetbitsinanintegerGeeksforGeeks-8.java
+5,0,0,2,0,0,0,1,0,0,0,0,2,5,3,13,mn,polynomial,inefficient,EditDistanceDP5GeeksforGeeks-2.java
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,log n,logarithmic,efficient,Findwhetheragivennumberisapowerof4ornotGeeksforGeeks-5.java
+4,0,0,6,0,0,0,0,0,0,0,0,4,6,2,20,n,linear,efficient,MobileNumericKeypadProblemGeeksforGeeks-2.java
+3,0,0,2,0,0,0,1,0,0,0,0,2,5,2,8,mn,polynomial,inefficient,ShortestCommonSupersequenceGeeksforGeeks-3.java
+7,1,0,1,0,0,0,0,0,0,0,0,0,8,4,20,|num1|,linear,efficient,Writeaprogramtoaddtwonumbersinbase14GeeksforGeeks-1.java
+1,0,0,2,0,0,0,1,0,0,0,0,2,3,3,7,n*k,quadratic,inefficient,BinomialCoefficientDP9GeeksforGeeks-2.java
+2,0,0,1,0,0,0,0,0,0,0,0,0,7,2,4,mn,polynomial,inefficient,GiventwostringsfindiffirststringisasubsequenceofsecondGeeksforGeeks-3.java
+
+2,0,0,3,0,0,0,0,0,0,0,0,0,7,2,10,n+k,linear,efficient,BinomialCoefficientDP9GeeksforGeeks-7.java
+2,0,0,3,0,0,0,0,1,0,0,0,0,8,3,10,n log n,linearithmic,efficient,CombSortGeeksforGeeks-1.java
+3,0,0,1,2,0,0,0,0,0,0,0,0,6,2,9,n,linear,efficient,LinearSearchGeeksforGeeks-2.java
+5,0,0,8,0,0,0,0,0,0,0,1,2,14,5,19,v+e,linear,efficient,CheckifagraphisstronglyconnectedSet1KosarajuusingDFSGeeksforGeeks-1.java
+2,0,0,2,0,0,0,0,0,1,0,0,0,6,2,9,n,linear,efficient,FindtheNumberOccurringOddNumberofTimesGeeksforGeeks-2.java
+2,0,0,5,0,0,0,0,0,0,0,0,2,12,4,12,e log v,linearithmic,efficient,PrimsMinimumSpanningTreeMSTGreedyAlgo5GeeksforGeeks-1.java
