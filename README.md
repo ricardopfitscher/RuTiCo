@@ -2,4 +2,4 @@
 Runtime Complexity Prediction
 
 Summary of RuTiCO learning methodology:
-?[Scheme](methodology.jpg?raw=true "Methodology")
+?[Scheme](/assets/images/methodology.jpg?raw=true)
