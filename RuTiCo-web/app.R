@@ -8,6 +8,8 @@
 #
 
 library(shiny)
+library(randomForest)
+library(dplyr)
 
 # Define UI for application that draws a histogram
 shiny::runApp(list(
@@ -24,34 +26,31 @@ shiny::runApp(list(
                    c(Comma=',',
                      Semicolon=';',
                      Tab='\t'),
-                   'Comma'),
-      radioButtons('quote', 'Quote',
-                   c(None='',
-                     'Double Quote'='"',
-                     'Single Quote'="'"),
-                   'Double Quote')
+                   'Comma')
     )
     ,
     mainPanel(
       
-      tableOutput(outputId = 'table.output')
+      tableOutput(outputId = 'table.output'),
     ))
   ,
   server=function(input, output){
     output$table.output <- renderTable({
       #LOAD RDS model
-      model_efficiency_merged_full <- readRDS(file = "model_efficiency_classification.rds")
-      model_class_merged_full <- readRDS(file = "model_complexity_classification.rds")
+      model_efficiency_merged_full <- readRDS("data/model_efficiency_classification.rds")
+      model_class_merged_full <- readRDS("data/model_complexity_classification.rds")
       
       inFile <- input$file1
       
       if (is.null(inFile))
         return(NULL)
-      
-      tbl <- read.csv(inFile$datapath, header=input$header, sep=input$sep, quote=input$quote)
-      #p.efficiency <- predict(model_efficiency_merged_full, as.data.frame(tbl))
-      #p.class <- predict(model_class_merged_full, as.data.frame(tbl))
-      return(tbl^2)
+      #read.csv("database.csv", sep = ",", header = T, dec = ",", stringsAsFactors=TRUE)
+      tbl <- read.csv(inFile$datapath, header=input$header, sep=input$sep, dec = ",",stringsAsFactors=TRUE)
+      database <- as.data.frame(tbl)
+      tbl$p.efficiency <- predict(model_efficiency_merged_full, database)
+      tbl$p.class <- predict(model_class_merged_full, database)
+      result <- select(tbl, c("p.efficiency","p.class","filename"))
+      return(result)
     })
   }
 ))
