@@ -1,7 +1,7 @@
 # RuTiCo
 Runtime Complexity Prediction
 
-Please access the RuTiCo's shine app for testing: 
+Please access the RuTiCo's shiny app for testing: 
 [RuTiCo Web](https://rjpfitscher.shinyapps.io/RuTiCo-web/)
 
 Summary of RuTiCO learning methodology:
