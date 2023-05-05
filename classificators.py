@@ -5,8 +5,8 @@ import seaborn as sn
 #used for class balancing
 from imblearn.over_sampling import SMOTE
 
-crawled_database = pd.read_csv('/kaggle/input/merged-dataset/database.csv')#crawled data
-paper_database = pd.read_csv('/kaggle/input/merged-dataset/database_paper.csv')#reference data
+crawled_database = pd.read_csv('database.csv')#crawled data
+paper_database = pd.read_csv('database_paper.csv')#reference data
 merged_database = pd.merge(crawled_database, paper_database, how='outer')#merged data
 
 
